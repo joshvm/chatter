@@ -1,0 +1,11 @@
+.list-cell:empty {
+    -fx-opacity: 0;
+}
+
+.grey {
+    -fx-background-color: lightgrey;
+}
+
+.white {
+    -fx-background-color: white;
+}

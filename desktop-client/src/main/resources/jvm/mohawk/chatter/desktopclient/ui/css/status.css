@@ -1,0 +1,15 @@
+.online {
+    -fx-fill: green;
+}
+
+.busy {
+    -fx-fill: red;
+}
+
+.away {
+    -fx-fill: orange;
+}
+
+.offline {
+    -fx-fill: black;
+}
